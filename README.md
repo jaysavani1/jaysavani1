@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
-<h1 align="center">Hi 👋, I'm Jaykumar Savani</h1>
+<h1 align="center">Hi 👋, I'm Jay Savani</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jaysavani1 alt=rahuldkjain/> </p>
 
 
