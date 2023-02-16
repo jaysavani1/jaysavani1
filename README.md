@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/max/1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
 <h1 align="center">Hi 👋, I'm Jay Savani</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jaysavani1 alt=rahuldkjain/> </p>
 
@@ -28,6 +27,7 @@
 
 <!--
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://miro.medium.com/max/1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
 - 📫 How to reach me **XYZ@gmail.com**
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 
