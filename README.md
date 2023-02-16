@@ -21,8 +21,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysavani1&" alt="jaysavani1" /></p>
-<p align="right"> <img src=https://github-readme-stats.vercel.app/api?username=jaysavani1&show_icons=true alt=jaysavani1 /> </p>
+<p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysavani1&" alt="jaysavani1" height="200" width="400" /></p>
+<img align="right" src=https://github-readme-stats.vercel.app/api?username=jaysavani1&show_icons=true alt=jaysavani1 height="200"  width="400" /> 
+</p>
 
 <!--
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
