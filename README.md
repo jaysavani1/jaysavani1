@@ -19,13 +19,13 @@
 <a href="https://linkedin.com/in/jaykumarsavani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaysavani1" height="30" width="40" /></a>
 </p>
 
-
+<!--
 <p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysavani1&" alt="jaysavani1" height="200" width="400" /></p>
 <img align="right" src=https://github-readme-stats.vercel.app/api?username=jaysavani1&show_icons=true alt=jaysavani1 height="200"  width="400" /> 
 </p>
 
-<!--
+
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 ![MasterHead](https://miro.medium.com/max/1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
 - 📫 How to reach me **XYZ@gmail.com**
