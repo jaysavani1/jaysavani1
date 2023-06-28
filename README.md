@@ -8,11 +8,11 @@
 - Proficient in predictive modeling, data processing, and machine learning algorithms, as well as scripting languages including python. 
 - Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
-
+<!--
 <h3 align="left">Read my blogs:</h3>
 <a href="https://medium.com/@jaysavani007" target="blank"><img align="center" src="https://img.icons8.com/ios/256/medium-monogram.png" alt="jaysavani007" height="30" width="40" /></a>
 </p>
-
+-->
 <h3 align="left">Connect with me:</h3>
 
 <p align="left-center">
